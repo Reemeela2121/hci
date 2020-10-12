@@ -1,4 +1,6 @@
-# Redesigning Tiktok
+# Redesigning TikTok
+![tiktok_logo.png]
+(http://pngimg.com/download/94164)
 
 ### Design Focus and Problem Spaces
 ```markdown
