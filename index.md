@@ -1,6 +1,6 @@
 # Redesigning TikTok
 <img src="tiktok_logo.png" width="200"
-         height="200">
+         height="200" style="float:left">
 
 ### Design Focus and Problem Spaces
 ```markdown
