@@ -1,8 +1,10 @@
 <img src="07tiktok-still-1-jumbo.gif" width="500"
          height="500" style="vertical-align:bottom">
 # Redesigning TikTok
-<p> short description of the project </p>
-### Design Focus and Problem Spaces
+
+<p> We're glued to our phones for good reason! Tiktok, an app for making and sharing short 15 to 30 second videos, not only encourages creativity from amateur dancing videos to insanely talented cosplay transformations but keeps us all connected by allowing users to share its content. </p>
+
+### Problem Space
 ```markdown
 Syntax highlighted code block
 
