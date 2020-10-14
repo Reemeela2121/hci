@@ -57,12 +57,23 @@ Listed below are the features I implemented in the prototype:
 
 ```markdown
 1. Airdrop feature allows for easier sharing for iOS users
-2. Highlighted posts on a creator's page shows you which ones you have already liked
-3. Collections workflow in the app allows you to create collections for better organization and recall of saved videos
 ```
+<img src="AirdropFeature.gif" style="vertical-align:bottom">
+
+```markdown
+2. Highlighted posts on a creator's page
+shows you which ones you have already liked
+```
+<img src="HighlightedLikes.gif" style="vertical-align:bottom">
+
+```markdown
+3. Collections workflow in the app allows you to 
+create collections for better organization and recall of saved videos
+```
+<img src="collectionsTabs.gif" style="vertical-align:bottom">
 
 ### Evaluation Video
 
 ```markdown
-insert link here
+https://youtu.be/sU88GggSBM8
 ```
