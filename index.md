@@ -58,18 +58,26 @@ Listed below are the features I implemented in the prototype:
 ```markdown
 1. Airdrop feature allows for easier sharing for iOS users
 ```
+To use this feature, navigate to the share button on the right of the screen. Airdrop is listed as one of the share features.
+
 <img src="AirdropFeature.gif" style="vertical-align:bottom">
 
 ```markdown
 2. Highlighted posts on a creator's page
 shows you which ones you have already liked
 ```
+To use this feature, navigate to the creator's user profile. There, you can scroll and see highlighted posts that you have already liked. They will have a heart icon on them.
+
 <img src="HighlightedLikes.gif" style="vertical-align:bottom">
 
 ```markdown
 3. Collections workflow in the app allows you to 
 create collections for better organization and recall of saved videos
 ```
+To create a new collection, navigate to the share button on the right of the screen. Then, click the ***create new collection*** button that is listed at the end of the row. The top bar shows you all of your collections, ordered from most to least recent. You can also scroll right to look through all your collections. Then, you can add a title to the collection and click create. 
+
+To view your collections, navigate to your user profile. There, you will find the collections tab. You can see all of your collections and clicking on a collection will navigate you to the full listing of all the TikTok content saved to that collection. Clicking the title of the collection will take you back to the collections tab. 
+
 <img src="collectionsTabs.gif" style="vertical-align:bottom">
 
 ### Evaluation Video
