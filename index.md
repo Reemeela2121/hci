@@ -1,5 +1,5 @@
-<img src="tiktok_logo.png" width="200"
-         height="200" style="vertical-align:bottom">
+<img src="07tiktok-still-1-jumbo.gif" width="500"
+         height="500" style="vertical-align:bottom">
 # Redesigning TikTok
 <p> short description of the project </p>
 ### Design Focus and Problem Spaces
