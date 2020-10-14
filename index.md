@@ -80,7 +80,7 @@ To view your collections, navigate to your user profile. There, you will find th
 
 <img src="collectionsTabs.gif" style="vertical-align:bottom">
 
-### Evaluation Video
+### [Evaluation Video](https://youtu.be/sU88GggSBM8)
 
 ```markdown
 https://youtu.be/sU88GggSBM8
