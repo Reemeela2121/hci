@@ -46,8 +46,9 @@ Some thoughts that we both shared about this user experience was that it can be 
 
 ### Sequential Model
 
-In order to organize the actions involved in the task, as well as the observations I made when watching the subject perform the tasks, I created a sequential model on Miro to better summarize the key takeaways from the contextual inquiry. 
+In order to organize the actions involved in the task, as well as the observations I made when watching the subject perform the tasks, I created a sequential model on Miro to better summarize the key takeaways from the contextual inquiry. The breakdowns helped me figure out what the app was lacking the most. 
 
+<img src="Sequential.jpg" style="vertical-align:bottom">
 
 ### Prototype
 I created a protype (on Figma) of the ideas I gathered from the sequential model.
