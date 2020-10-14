@@ -30,11 +30,15 @@ Second Task: Save the TikTok and share it with a friend.
 ```
 Next, I asked her to save a Tiktok to her liked videos and also share the video with a friend. She continued scrolling and scrolling on her FYP until she came across something she liked. On the bottom righthand corner of the screen, she pressed the share button. Then, she pressed the SMS button and shared it with me. 
 
+<img src="SecondTask.png" style="vertical-align:bottom">
+         
 ```markdown
 Third Task: Find a meme you found really funny a long time ago and try to find it. Share it with a friend.
 ```
 Finally, for the last task I told her to think of a funny meme she liked from a week or two ago and try to find it. First, she navigated to her profile page in the bottom right corner of the app. Next, she clicked on her likes tab. Then she scrolled for a really long time through her likes, pausing to click on various tiktoks only to realize a few seconds in that it was the wrong one. She repeated this process until she finally found the right one. 
 
+<img src="scrolling.gif" style="vertical-align:bottom">
+         
 ### Interpretation
 
 Some thoughts that we both shared about this user experience was that it can be quite frustrating to scroll for a long time to look for something that only plays for 15 seconds or so. It can even lead to someone giving up entirely on finding that one funny or cool video and not sharing or showing it to their friends. This is a major drawback of the app that I had to address in redesigning this app. Overall, TikTok is a pretty seamless app, with not many screens, and it is worth mentioning the versatility of hosting not only a platform for people to watch media catered to their likes but also a platform where people can record, upload, edit, trim, apply filters and transitions, and most importantly share their videos with other people on the app. I am not looking to improve that aspect of the platform, but rather the lack of organization when it comes to saving liked content. There is a lot of responsiblilty placed on the user to recall important key details that would distinguish/identify the video they were looking for, which decreases the enjoyment of using the app significantly. 
@@ -56,24 +60,8 @@ Listed below are the features I implemented in the prototype:
 3. Collections workflow in the app allows you to create collections for better organization and recall of saved videos
 ```
 
-### Conclusions
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Evaluation Video
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+insert link here
 ```
